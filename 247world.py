@@ -1,7 +1,6 @@
 import xml.etree.ElementTree as ET
 import random
 import uuid
-import fetcher
 import json
 import os
 import datetime
