@@ -12,7 +12,7 @@ jobs:
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
       cancel-in-progress: false
-    
+   
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -29,10 +29,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 pytz
 
-      - name: Run 247world script
+      - name: Run 247worldold script
         run: |
-          rm -f 247channels.html 247world.m3u8 247world.xml
-          python 247world.py
+          rm -f 247channels.html 247worldold.m3u8 247worldold.xml
+          python 247worldold.py
 
       - name: Commit and push changes
         run: |
@@ -40,9 +40,9 @@ jobs:
           git config --global user.email "michaelndai7@gmail.com"
           echo "__pycache__/" >> .gitignore
           echo "*.pyc" >> .gitignore
-          git add 247world.m3u8 247world.xml
+          git add 247worldold.m3u8 247worldold.xml
           if [[ -n $(git status --porcelain) ]]; then
-            git commit -m "Update 247world channels - $(date +%Y-%m-%d\ %H:%M)"
+            git commit -m "Update 247worldold channels - $(date +%Y-%m-%d\ %H:%M)"
             git push --force origin HEAD:main
           else
             echo "No changes to commit"
