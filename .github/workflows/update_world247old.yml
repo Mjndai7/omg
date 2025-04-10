@@ -3,7 +3,6 @@ name: Update 247World Channels
 on:
   schedule:
     - cron: "0 */12 * * *" # Every 12 hours (e.g., 12 AM and 12 PM UTC)
-    # Alternative: "0 3 * * 1" for every Monday at 3 AM UTC
   workflow_dispatch:
 
 jobs:
@@ -12,7 +11,7 @@ jobs:
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
       cancel-in-progress: false
-   
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -31,7 +30,7 @@ jobs:
 
       - name: Run 247worldold script
         run: |
-          rm -f 247channels.html 247worldold.m3u8 247worldold.xml
+          rm -f 247channels.html 247worldold.m3u8 247worldold.xml 247worldold.log
           python 247worldold.py
 
       - name: Commit and push changes
@@ -40,7 +39,7 @@ jobs:
           git config --global user.email "michaelndai7@gmail.com"
           echo "__pycache__/" >> .gitignore
           echo "*.pyc" >> .gitignore
-          git add 247worldold.m3u8 247worldold.xml
+          git add .gitignore 247worldold.m3u8 247worldold.xml 247channels.html 247worldold.log
           if [[ -n $(git status --porcelain) ]]; then
             git commit -m "Update 247worldold channels - $(date +%Y-%m-%d\ %H:%M)"
             git push --force origin HEAD:main
