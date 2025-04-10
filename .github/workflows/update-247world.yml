@@ -1,0 +1,47 @@
+name: Update 247World Channels
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Every 12 hours (e.g., 12 AM and 12 PM UTC)
+    # Alternative: "0 3 * * 1" for every Monday at 3 AM UTC
+  workflow_dispatch:
+
+jobs:
+  update-channels:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+      cancel-in-progress: false
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 pytz
+
+      - name: Run 247world script
+        run: |
+          rm -f 247channels.html 247world.m3u8 247world.xml
+          python 247world.py
+
+      - name: Commit and push changes
+        run: |
+          echo "__pycache__/" >> .gitignore
+          echo "*.pyc" >> .gitignore
+          git add 247world.m3u8 247world.xml
+          if [[ -n $(git status --porcelain) ]]; then
+            git commit -m "Update 247world channels - $(date +%Y-%m-%d\ %H:%M)"
+            git push --force origin HEAD:main
+          else
+            echo "No changes to commit"
+          fi
