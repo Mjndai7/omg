@@ -36,6 +36,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
+          git config --global user.name "mjndai7"
+          git config --global user.email "michaelndai7@gmail.com"
           echo "__pycache__/" >> .gitignore
           echo "*.pyc" >> .gitignore
           git add 247world.m3u8 247world.xml

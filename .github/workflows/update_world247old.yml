@@ -1,64 +1,49 @@
-#name: Update world 24 7
-#
-#on:
-#  schedule:
-#    - cron: "0 */12 * * *" # ogni lunedi alle 3
-#  workflow_dispatch:
-#
-#jobs:
-#  update-files:
-#    runs-on: ubuntu-latest
-#    concurrency:
-#      group: ${{ github.workflow }}-${{ github.ref }}
-#      cancel-in-progress: false
-#    
-#    steps:
-#      - name: Checkout repository (no history)
-#        uses: actions/checkout@v3
-#        with:
-#          fetch-depth: 0
-#
-#      - name: Set up Python
-#        uses: actions/setup-python@v4
-#        with:
-#          python-version: '3.x'
-#
-#      - name: Install dependencies
-#        run: |
-#          python -m pip install requests pytz
-#          pip install bs4
-#          pip install chardet
-#          
-#      - name: Run EPG grabber script
-#        env:
-#          M3U4U_EPG: ${{ secrets.M3U4U_EPG }}
-#        run: |
-#          rm -f daddyliveSchedule.json
-#          rm -f 247channels.html
-#          rm -f 247worldold.m3u8
-#          rm -f 247worldold.xml
-#          python 247worldold.py
-#          
-#      - name: Commit and push changes
-#        run: |
-#          git config --global user.name "actions-user"
-#          git config --global user.email "actions@github.com"
-#          
-#          # Ignore Python bytecode files to avoid binary conflicts
-#          echo "__pycache__/" >> .gitignore
-#          echo "*.pyc" >> .gitignore
-#          
-#          # Stage all changes
-#          git add .
-#          
-#          # Check if there are changes to commit
-#          if [[ -n $(git status --porcelain) ]]; then
-#            # Commit changes
-#            git commit -m "Update world247 $(date +%H:%M)"
-#            
-#            # Force push to avoid merge conflicts
-#            git push --force origin HEAD:main
-#          else
-#            echo "No changes to commit"
-#          fi
-#
+name: Update 247World Channels
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Every 12 hours (e.g., 12 AM and 12 PM UTC)
+    # Alternative: "0 3 * * 1" for every Monday at 3 AM UTC
+  workflow_dispatch:
+
+jobs:
+  update-channels:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+      cancel-in-progress: false
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 pytz
+
+      - name: Run 247world script
+        run: |
+          rm -f 247channels.html 247world.m3u8 247world.xml
+          python 247world.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "mjndai7"
+          git config --global user.email "michaelndai7@gmail.com"
+          echo "__pycache__/" >> .gitignore
+          echo "*.pyc" >> .gitignore
+          git add 247world.m3u8 247world.xml
+          if [[ -n $(git status --porcelain) ]]; then
+            git commit -m "Update 247world channels - $(date +%Y-%m-%d\ %H:%M)"
+            git push --force origin HEAD:main
+          else
+            echo "No changes to commit"
+          fi
