@@ -1,6 +1,5 @@
 import xml.etree.ElementTree as ET
 import random
-import uuid
 import json
 import os
 import datetime
@@ -15,6 +14,7 @@ DADDY_JSON_FILE = "daddyliveSchedule.json"
 M3U8_OUTPUT_FILE = "247world.m3u8"
 EPG_OUTPUT_FILE = "247world.xml"
 LOGO = "https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png"
+EPG_URL = "https://github.com/pigzillaaaaa/iptv-scraper/raw/refs/heads/main/epgs/daddylive-channels-epg.xml"
 
 mStartTime = 0
 mStopTime = 0
@@ -162,12 +162,7 @@ def get_stream_link(dlhd_id, max_retries=3):
 
     return None
 
-# Remove existing files
-for file in [M3U8_OUTPUT_FILE, EPG_OUTPUT_FILE, DADDY_JSON_FILE, daddyLiveChannelsFileName]:
-    if os.path.exists(file):
-        os.remove(file)
-
-# Channel Data (restructured for your channels)
+# Channel Data
 STATIC_LOGOS = {
     "acc network": "https://upload.wikimedia.org/wikipedia/commons/8/8b/ACC_Network_logo.png",
     "sec network": "https://upload.wikimedia.org/wikipedia/en/5/5f/SEC_Network_logo.png",
@@ -294,7 +289,7 @@ def fetch_with_debug(filename, url):
         response.raise_for_status()
         with open(filename, 'wb') as file:
             file.write(response.content)
-    except requests.exceptions.RequestException as e:
+    except requests.exceptions.RequestException:
         pass
 
 def search_category(channel_name):
@@ -330,7 +325,7 @@ def search_tvg_id(channel_name):
     for key, tvg_id in STATIC_TVG_IDS.items():
         if key in channel_name_lower:
             return tvg_id
-    return "unknown"
+    return channel_name_lower.replace(" ", "").replace("-", "") + ".unknown"
 
 def generate_m3u8_247(matches):
     if not matches:
@@ -360,21 +355,34 @@ def generate_m3u8_247(matches):
                 pass
     return processed_247_channels
 
-# Main execution
-channelCount = 0
-total_247_channels = 0
+def fetch_epg():
+    try:
+        response = requests.get(EPG_URL, timeout=10)
+        response.raise_for_status()
+        with open(EPG_OUTPUT_FILE, 'wb') as file:
+            file.write(response.content)
+        print(f"EPG fetched and saved as {EPG_OUTPUT_FILE}")
+    except requests.exceptions.RequestException as e:
+        print(f"Failed to fetch EPG: {e}")
 
-root = ET.Element('tv')
+def remove_existing_files():
+    for file in [M3U8_OUTPUT_FILE, EPG_OUTPUT_FILE, DADDY_JSON_FILE, daddyLiveChannelsFileName]:
+        if os.path.exists(file):
+            os.remove(file)
 
-if channelCount == 0:
-    pass
-else:
-    tree = ET.ElementTree(root)
-    tree.write(EPG_OUTPUT_FILE, encoding='utf-8', xml_declaration=True)
-    pass
+if __name__ == "__main__":
+    # Remove existing files
+    remove_existing_files()
 
-fetch_with_debug(daddyLiveChannelsFileName, daddyLiveChannelsURL)
-matches_247 = search_streams(daddyLiveChannelsFileName, "")
-total_247_channels = generate_m3u8_247(matches_247)
+    # Fetch EPG
+    fetch_epg()
 
-print(f"Script completed. 24/7 channels added: {total_247_channels}")
+    # Initialize counters
+    total_247_channels = 0
+
+    # Fetch and generate M3U8 for 24/7 channels
+    fetch_with_debug(daddyLiveChannelsFileName, daddyLiveChannelsURL)
+    matches_247 = search_streams(daddyLiveChannelsFileName, "")
+    total_247_channels = generate_m3u8_247(matches_247)
+
+    print(f"Script completed. 24/7 channels added: {total_247_channels}")
