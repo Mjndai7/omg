@@ -2922,6 +2922,12 @@ https://windnew.newkso.ru/wind/premium866/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.newkso.ru/wind/premium867/mono.m3u8
 
+#EXTINF:-1 tvg-id="skycinemasuspense" tvg-name="Sky Cinema Suspense " tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Sky Cinema Suspense 
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium868/mono.m3u8
+
 #EXTINF:-1 tvg-id="skysport24" tvg-name="Sky Sport 24 " tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Sky Sport 24 
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -6935,6 +6941,12 @@ https://windnew.newkso.ru/wind/premium866/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.newkso.ru/wind/premium867/mono.m3u8
+
+#EXTINF:-1 tvg-id="skycinemasuspense" tvg-name="Sky Cinema Suspense " tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Sky Cinema Suspense 
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium868/mono.m3u8
 
 #EXTINF:-1 tvg-id="skysport24" tvg-name="Sky Sport 24 " tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Sky Sport 24 
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
