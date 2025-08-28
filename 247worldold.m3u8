@@ -2982,6 +2982,12 @@ https://windnew.newkso.ru/wind/premium865/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.newkso.ru/wind/premium866/mono.m3u8
 
+#EXTINF:-1 tvg-id="skycinemadrama" tvg-name="Sky Cinema Drama " tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Sky Cinema Drama 
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.newkso.ru/wind/premium867/mono.m3u8
+
 #EXTINF:-1 tvg-id="skycinemasuspense" tvg-name="Sky Cinema Suspense " tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Sky Cinema Suspense 
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -3084,6 +3090,12 @@ https://ddy6new.newkso.ru/ddy6/premium614/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium615/mono.m3u8
 
+#EXTINF:-1 tvg-id="sscsport3" tvg-name="SSC Sport 3" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", SSC Sport 3
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium616/mono.m3u8
+
 #EXTINF:-1 tvg-id="sscsport4" tvg-name="SSC Sport 4" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", SSC Sport 4
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -3131,6 +3143,12 @@ https://zekonew.newkso.ru/zeko/premium141/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.newkso.ru/zeko/premium142/mono.m3u8
+
+#EXTINF:-1 tvg-id="sport4israel" tvg-name="Sport 4 Israel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Sport 4 Israel
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.newkso.ru/zeko/premium143/mono.m3u8
 
 #EXTINF:-1 tvg-id="sport5israel" tvg-name="Sport 5 Israel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Sport 5 Israel
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -4542,6 +4560,12 @@ https://zekonew.newkso.ru/zeko/premium271/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.newkso.ru/zeko/premium273/mono.m3u8
 
+#EXTINF:-1 tvg-id="canal11portugal" tvg-name="Canal 11 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Canal 11 Portugal
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium540/mono.m3u8
+
 #EXTINF:-1 tvg-id="canal+sportpoland" tvg-name="Canal+ Sport Poland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Canal+ Sport Poland
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -4553,6 +4577,12 @@ https://nfsnew.newkso.ru/nfs/premium48/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium73/mono.m3u8
+
+#EXTINF:-1 tvg-id="canal+sport3poland" tvg-name="Canal+ Sport 3 Poland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Canal+ Sport 3 Poland
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.newkso.ru/wind/premium259/mono.m3u8
 
 #EXTINF:-1 tvg-id="canal+sport5poland" tvg-name="CANAL+ SPORT 5 Poland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", CANAL+ SPORT 5 Poland
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -4577,6 +4607,12 @@ https://dokko1new.newkso.ru/dokko1/premium567/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.newkso.ru/wind/premium570/mono.m3u8
+
+#EXTINF:-1 tvg-id="canal+sport1afrique" tvg-name="Canal+ Sport 1 Afrique" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Canal+ Sport 1 Afrique
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium486/mono.m3u8
 
 #EXTINF:-1 tvg-id="canal+sport2afrique" tvg-name="Canal+ Sport 2 Afrique" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Canal+ Sport 2 Afrique
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -4620,6 +4656,12 @@ https://windnew.newkso.ru/wind/premium89/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium747/mono.m3u8
 
+#EXTINF:-1 tvg-id="cosmotesport1hd" tvg-name="Cosmote Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Cosmote Sport 1 HD
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium622/mono.m3u8
+
 #EXTINF:-1 tvg-id="cosmotesport2hd" tvg-name="Cosmote Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Cosmote Sport 2 HD
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -4644,6 +4686,12 @@ https://dokko1new.newkso.ru/dokko1/premium625/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium626/mono.m3u8
 
+#EXTINF:-1 tvg-id="cosmotesport6hd" tvg-name="Cosmote Sport 6 HD" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Cosmote Sport 6 HD
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium627/mono.m3u8
+
 #EXTINF:-1 tvg-id="cosmotesport7hd" tvg-name="Cosmote Sport 7 HD" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Cosmote Sport 7 HD
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -4656,6 +4704,12 @@ https://dokko1new.newkso.ru/dokko1/premium628/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium629/mono.m3u8
 
+#EXTINF:-1 tvg-id="cosmotesport9hd" tvg-name="Cosmote Sport 9 HD" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Cosmote Sport 9 HD
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium630/mono.m3u8
+
 #EXTINF:-1 tvg-id="channel9israel" tvg-name="Channel 9 Israel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Channel 9 Israel
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -4667,6 +4721,18 @@ https://zekonew.newkso.ru/zeko/premium546/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.newkso.ru/zeko/premium547/mono.m3u8
+
+#EXTINF:-1 tvg-id="channel11israel" tvg-name="Channel 11 Israel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Channel 11 Israel
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.newkso.ru/zeko/premium548/mono.m3u8
+
+#EXTINF:-1 tvg-id="channel12israel" tvg-name="Channel 12 Israel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Channel 12 Israel
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.newkso.ru/zeko/premium549/mono.m3u8
 
 #EXTINF:-1 tvg-id="channel13israel" tvg-name="Channel 13 Israel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Channel 13 Israel
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -4770,6 +4836,12 @@ https://zekonew.newkso.ru/zeko/premium602/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium838/mono.m3u8
 
+#EXTINF:-1 tvg-id="crime+investigationusa" tvg-name="Crime+ Investigation USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Crime+ Investigation USA
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium669/mono.m3u8
+
 #EXTINF:-1 tvg-id="cometusa" tvg-name="Comet USA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Comet USA
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -4781,6 +4853,12 @@ https://nfsnew.newkso.ru/nfs/premium696/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium697/mono.m3u8
+
+#EXTINF:-1 tvg-id="cleotv" tvg-name="Cleo TV" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Cleo TV
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.newkso.ru/wind/premium715/mono.m3u8
 
 #EXTINF:-1 tvg-id="cspan1" tvg-name="C SPAN 1" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", C SPAN 1
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -4794,11 +4872,23 @@ https://windnew.newkso.ru/wind/premium750/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.newkso.ru/zeko/premium767/mono.m3u8
 
+#EXTINF:-1 tvg-id="citytv" tvg-name="Citytv" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Citytv
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium831/mono.m3u8
+
 #EXTINF:-1 tvg-id="cbcca" tvg-name="CBC CA" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", CBC CA
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium832/mono.m3u8
+
+#EXTINF:-1 tvg-id="cbssportsgolazo" tvg-name="CBS Sports Golazo" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", CBS Sports Golazo
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.newkso.ru/zeko/premium910/mono.m3u8
 
 #EXTINF:-1 tvg-id="cmtvportugal" tvg-name="CMTV Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", CMTV Portugal
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -4806,17 +4896,41 @@ https://dokko1new.newkso.ru/dokko1/premium832/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium790/mono.m3u8
 
+#EXTINF:-1 tvg-id="cytavisionsports1cyprus" tvg-name="Cytavision Sports 1 Cyprus" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Cytavision Sports 1 Cyprus
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.newkso.ru/wind/premium911/mono.m3u8
+
 #EXTINF:-1 tvg-id="cytavisionsports2cyprus" tvg-name="Cytavision Sports 2 Cyprus" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Cytavision Sports 2 Cyprus
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.newkso.ru/wind/premium912/mono.m3u8
 
+#EXTINF:-1 tvg-id="cytavisionsports3cyprus" tvg-name="Cytavision Sports 3 Cyprus" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Cytavision Sports 3 Cyprus
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.newkso.ru/wind/premium913/mono.m3u8
+
 #EXTINF:-1 tvg-id="cytavisionsports4cyprus" tvg-name="Cytavision Sports 4 Cyprus" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Cytavision Sports 4 Cyprus
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.newkso.ru/wind/premium914/mono.m3u8
+
+#EXTINF:-1 tvg-id="cytavisionsports5cyprus" tvg-name="Cytavision Sports 5 Cyprus" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Cytavision Sports 5 Cyprus
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.newkso.ru/wind/premium915/mono.m3u8
+
+#EXTINF:-1 tvg-id="cytavisionsports6cyprus" tvg-name="Cytavision Sports 6 Cyprus" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Cytavision Sports 6 Cyprus
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.newkso.ru/wind/premium916/mono.m3u8
 
 #EXTINF:-1 tvg-id="cytavisionsports7cyprus" tvg-name="Cytavision Sports 7 Cyprus" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Cytavision Sports 7 Cyprus
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -4830,11 +4944,41 @@ https://windnew.newkso.ru/wind/premium917/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium281/mono.m3u8
 
+#EXTINF:-1 tvg-id="dazn1barde" tvg-name="DAZN 1 Bar DE" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", DAZN 1 Bar DE
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium426/mono.m3u8
+
+#EXTINF:-1 tvg-id="dazn2barde" tvg-name="DAZN 2 Bar DE" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", DAZN 2 Bar DE
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://ddy6new.newkso.ru/ddy6/premium427/mono.m3u8
+
 #EXTINF:-1 tvg-id="dazn1spain" tvg-name="DAZN 1 Spain" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", DAZN 1 Spain
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.newkso.ru/wind/premium445/mono.m3u8
+
+#EXTINF:-1 tvg-id="dazn2spain" tvg-name="DAZN 2 Spain" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", DAZN 2 Spain
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.newkso.ru/zeko/premium446/mono.m3u8
+
+#EXTINF:-1 tvg-id="dazn3spain" tvg-name="DAZN 3 Spain" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", DAZN 3 Spain
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.newkso.ru/zeko/premium447/mono.m3u8
+
+#EXTINF:-1 tvg-id="dazn4spain" tvg-name="DAZN 4 Spain" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", DAZN 4 Spain
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://zekonew.newkso.ru/zeko/premium448/mono.m3u8
 
 #EXTINF:-1 tvg-id="daznf1es" tvg-name="DAZN F1 ES" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", DAZN F1 ES
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -4854,6 +4998,18 @@ https://windnew.newkso.ru/wind/premium230/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium538/mono.m3u8
 
+#EXTINF:-1 tvg-id="daznlaliga2" tvg-name="DAZN LaLiga 2" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", DAZN LaLiga 2
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.newkso.ru/wind/premium43/mono.m3u8
+
+#EXTINF:-1 tvg-id="dr1denmark" tvg-name="DR1 Denmark" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", DR1 Denmark
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium801/mono.m3u8
+
 #EXTINF:-1 tvg-id="dr2denmark" tvg-name="DR2 Denmark" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", DR2 Denmark
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -4872,17 +5028,47 @@ https://nfsnew.newkso.ru/nfs/premium400/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium401/mono.m3u8
 
+#EXTINF:-1 tvg-id="digisport3romania" tvg-name="Digi Sport 3 Romania" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Digi Sport 3 Romania
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://nfsnew.newkso.ru/nfs/premium402/mono.m3u8
+
 #EXTINF:-1 tvg-id="digisport4romania" tvg-name="Digi Sport 4 Romania" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Digi Sport 4 Romania
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://nfsnew.newkso.ru/nfs/premium403/mono.m3u8
 
+#EXTINF:-1 tvg-id="diemasportbulgaria" tvg-name="Diema Sport Bulgaria" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Diema Sport Bulgaria
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.newkso.ru/wind/premium465/mono.m3u8
+
+#EXTINF:-1 tvg-id="diemasport2bulgaria" tvg-name="Diema Sport 2 Bulgaria" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Diema Sport 2 Bulgaria
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.newkso.ru/wind/premium466/mono.m3u8
+
+#EXTINF:-1 tvg-id="diemasport3bulgaria" tvg-name="Diema Sport 3 Bulgaria" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Diema Sport 3 Bulgaria
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.newkso.ru/wind/premium467/mono.m3u8
+
 #EXTINF:-1 tvg-id="diemabulgaria" tvg-name="Diema Bulgaria" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Diema Bulgaria
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium482/mono.m3u8
+
+#EXTINF:-1 tvg-id="diemafamilybulgaria" tvg-name="Diema Family Bulgaria" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Diema Family Bulgaria
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.newkso.ru/wind/premium485/mono.m3u8
 
 #EXTINF:-1 tvg-id="dubaisports1uae" tvg-name="Dubai Sports 1 UAE" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Dubai Sports 1 UAE
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -4895,6 +5081,24 @@ https://dokko1new.newkso.ru/dokko1/premium604/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://dokko1new.newkso.ru/dokko1/premium605/mono.m3u8
+
+#EXTINF:-1 tvg-id="dubaisports3uae" tvg-name="Dubai Sports 3 UAE" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Dubai Sports 3 UAE
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium606/mono.m3u8
+
+#EXTINF:-1 tvg-id="dubairacing1uae" tvg-name="Dubai Racing 1 UAE" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Dubai Racing 1 UAE
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium607/mono.m3u8
+
+#EXTINF:-1 tvg-id="dubairacing2uae" tvg-name="Dubai Racing 2 UAE" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Dubai Racing 2 UAE
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium608/mono.m3u8
 
 #EXTINF:-1 tvg-id="discoverylifechannel" tvg-name="Discovery Life Channel" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Discovery Life Channel
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -4986,6 +5190,12 @@ https://zekonew.newkso.ru/zeko/premium386/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.newkso.ru/wind/premium71/mono.m3u8
 
+#EXTINF:-1 tvg-id="elevensports2poland" tvg-name="Eleven Sports 2 Poland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Eleven Sports 2 Poland
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.newkso.ru/wind/premium72/mono.m3u8
+
 #EXTINF:-1 tvg-id="elevensports3poland" tvg-name="Eleven Sports 3 Poland" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Eleven Sports 3 Poland
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -4997,6 +5207,18 @@ https://ddy6new.newkso.ru/ddy6/premium428/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium455/mono.m3u8
+
+#EXTINF:-1 tvg-id="elevensports2portugal" tvg-name="Eleven Sports 2 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Eleven Sports 2 Portugal
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.newkso.ru/wind/premium456/mono.m3u8
+
+#EXTINF:-1 tvg-id="elevensports3portugal" tvg-name="Eleven Sports 3 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Eleven Sports 3 Portugal
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://windnew.newkso.ru/wind/premium457/mono.m3u8
 
 #EXTINF:-1 tvg-id="elevensports4portugal" tvg-name="Eleven Sports 4 Portugal" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", Eleven Sports 4 Portugal
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
