@@ -768,6 +768,18 @@ https://zekonew.newkso.ru/zeko/premium551/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.newkso.ru/zeko/premium552/mono.m3u8
 
+#EXTINF:-1 tvg-id="cmorefirstsweden" tvg-name="C More First Sweden" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", C More First Sweden
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium812/mono.m3u8
+
+#EXTINF:-1 tvg-id="cmorehitssweden" tvg-name="C More Hits Sweden" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", C More Hits Sweden
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium813/mono.m3u8
+
 #EXTINF:-1 tvg-id="cmoreseriessweden" tvg-name="C More Series Sweden" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", C More Series Sweden
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -2826,6 +2838,12 @@ https://dokko1new.newkso.ru/dokko1/premium640/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium641/mono.m3u8
 
+#EXTINF:-1 tvg-id="s4cuk" tvg-name="S4C UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", S4C UK
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium670/mono.m3u8
+
 #EXTINF:-1 tvg-id="sat.1de" tvg-name="SAT.1 DE" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", SAT.1 DE
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -3623,6 +3641,12 @@ https://zekonew.newkso.ru/zeko/premium597/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://windnew.newkso.ru/wind/premium521/mono.m3u8
+
+#EXTINF:-1 tvg-id="vfilmpremiere" tvg-name="V Film Premiere" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", V Film Premiere
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium815/mono.m3u8
 
 #EXTINF:-1 tvg-id="vfilmfamily" tvg-name="V Film Family" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", V Film Family
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -4643,6 +4667,18 @@ https://zekonew.newkso.ru/zeko/premium551/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.newkso.ru/zeko/premium552/mono.m3u8
+
+#EXTINF:-1 tvg-id="cmorefirstsweden" tvg-name="C More First Sweden" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", C More First Sweden
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium812/mono.m3u8
+
+#EXTINF:-1 tvg-id="cmorehitssweden" tvg-name="C More Hits Sweden" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", C More Hits Sweden
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium813/mono.m3u8
 
 #EXTINF:-1 tvg-id="cmoreseriessweden" tvg-name="C More Series Sweden" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", C More Series Sweden
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
@@ -6900,6 +6936,12 @@ https://dokko1new.newkso.ru/dokko1/premium640/mono.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://ddy6new.newkso.ru/ddy6/premium641/mono.m3u8
 
+#EXTINF:-1 tvg-id="s4cuk" tvg-name="S4C UK" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", S4C UK
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium670/mono.m3u8
+
 #EXTINF:-1 tvg-id="sat.1de" tvg-name="SAT.1 DE" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", SAT.1 DE
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
@@ -7769,6 +7811,12 @@ https://windnew.newkso.ru/wind/premium521/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://zekonew.newkso.ru/zeko/premium272/mono.m3u8
+
+#EXTINF:-1 tvg-id="vfilmpremiere" tvg-name="V Film Premiere" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", V Film Premiere
+#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
+#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
+https://dokko1new.newkso.ru/dokko1/premium815/mono.m3u8
 
 #EXTINF:-1 tvg-id="vfilmfamily" tvg-name="V Film Family" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="24/7 Channels", V Film Family
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
